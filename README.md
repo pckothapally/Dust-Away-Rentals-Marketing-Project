@@ -21,16 +21,16 @@
 
 **📊 SWOT Analysis**
 
-| Strengths                            | Weaknesses                               |
-|--------------------------------------|------------------------------------------|
-| Low rental cost                      | Low awareness in early stages            |
-| High student demand                  | Limited initial inventory                |
-| Flexible time plans                  | Limited product knowledge among users    |
+| Strengths                               | Weaknesses                               |
+|-----------------------------------------|------------------------------------------|
+| Low rental cost                         | Low awareness in early stages            |
+| High student demand                     | Limited initial inventory                |
+| Flexible time plans                     | Limited product knowledge among users    |
 
-| Opportunities                        | Threats                                  |
-|--------------------------------------|------------------------------------------|
-| Growing student population           | Economic downturn, product damage risk   |
-| Social media-based promotion         | Regulatory compliance challenges         |
+| Opportunities                           | Threats                                  |
+|-----------------------------------------|------------------------------------------|
+| Growing student population              | Economic downturn, product damage risk   |
+| Social media-based promotion            | Regulatory compliance challenges         |
 
 **🎯 Marketing Objectives (SMART)**
 
