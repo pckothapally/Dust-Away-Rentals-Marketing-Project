@@ -1,10 +1,10 @@
 # Dust-Away Rentals: Marketing Plan Project
 
-**📌 Project Overview**
+## 📌 Project Overview
 
 **Dust-Away Rentals** is a student-focused cleaning equipment rental service designed to serve college students in Richardson, Texas. This marketing plan outlines a strategic go-to-market approach combining market research, financial projections, and promotional planning to address student needs for affordable and flexible cleaning solutions.
 
-**🎯 Executive Summary**
+## 🎯 Executive Summary
 
 - **Business Idea:** Rent cleaning equipment (vacuums, carpet cleaners, etc.) to students at affordable rates.
 - **Target Market:** Primarily college students aged 23–28 at UTD, Richland College, and nearby campuses.
@@ -87,7 +87,7 @@
 
 **📢 Let's Connect!**
 
-If you’re interested in viewing the full report or discussing the project, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/poorna-chandrika-kothapally/) or send a message.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/poorna-chandrika-kothapally/) or send a message.
 
 ---
 
