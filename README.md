@@ -1,4 +1,4 @@
-# Dust-Away Rentals: Marketing Plan Project
+# Dust-Away Rentals: Marketing Management Project
 
 ## 📌 Project Overview
 
