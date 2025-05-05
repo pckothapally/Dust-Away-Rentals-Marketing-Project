@@ -1,10 +1,10 @@
 # Dust-Away Rentals: Marketing Plan Project
 
-## 📌 Project Overview
+**📌 Project Overview**
 
 **Dust-Away Rentals** is a student-focused cleaning equipment rental service designed to serve college students in Richardson, Texas. This marketing plan outlines a strategic go-to-market approach combining market research, financial projections, and promotional planning to address student needs for affordable and flexible cleaning solutions.
 
-## 🎯 Executive Summary
+**🎯 Executive Summary**
 
 - **Business Idea:** Rent cleaning equipment (vacuums, carpet cleaners, etc.) to students at affordable rates.
 - **Target Market:** Primarily college students aged 23–28 at UTD, Richland College, and nearby campuses.
@@ -12,14 +12,14 @@
 - **Sales Goal:** $27,711.04 in Year 1
 - **Profitability Goal:** Achieve profitability by end of 2023
 
-## 🔍 Situation & Environment Analysis
+**🔍 Situation & Environment Analysis**
 
 - **Competitors:** Home Depot, Lowe’s, local rental services  
 - **Opportunities:** Rising demand post-COVID, minimalist & sharing economy trends  
 - **Tech Enablement:** Digital booking via website, SEO, PayPal/Zelle payments  
 - **Social Trends:** Increased focus on hygiene and affordability
 
-## 📊 SWOT Analysis
+**📊 SWOT Analysis**
 
 | Strengths                            | Weaknesses                               |
 |--------------------------------------|------------------------------------------|
@@ -32,21 +32,21 @@
 | Growing student population           | Economic downturn, product damage risk   |
 | Social media-based promotion         | Regulatory compliance challenges         |
 
-## 🎯 Marketing Objectives (SMART)
+**🎯 Marketing Objectives (SMART)**
 
 - Increase social media engagement by **30% by Q2**
 - Launch delivery service by **Q3**
 - Grow market share by **10% by year-end**
 - Partner with 4 major student apartments by **Q4**
 
-## 🎯 Target Market
+**🎯 Target Market**
 
 - **Demographic:** Students (age 23–28), income < $1000/mo  
 - **Psychographic:** Value-conscious, minimalistic, prefers renting  
 - **Geographic:** Richardson, TX (UTD & surrounding campuses)  
 - **Behavioral:** Cleans frequently, limited storage, shared housing
 
-## 📈 Marketing Strategy
+**📈 Marketing Strategy**
 
 - **Positioning Statement:** Affordable. Reliable. Spotless.  
 - **Service Offering:** Full range of cleaning equipment, website bookings, responsive support  
@@ -54,27 +54,27 @@
 - **Promotion:** Flyers, email marketing, social media ads, SEO-optimized website  
 - **Distribution:** Direct (online booking), Indirect (partnered apartments)
 
-## 📅 Implementation Plan (2023 Highlights)
+**📅 Implementation Plan (2023 Highlights)**
 
 - **Q1:** Website + social media launch, flyer distribution  
 - **Q2:** Ad campaigns, referral programs, apartment partnerships  
 - **Q3:** Mobile app dev, fall campaign, UTD events  
 - **Q4:** SEO, expansion to new locations, holiday promotions
 
-## 💵 Financial Highlights
+**💵 Financial Highlights**
 
 - **Initial Equipment Cost:** $4,060  
 - **Break-even:** Within Year 1 for most products  
 - **Revenue Targets:** Based on forecasted leasing % per quarter  
 - **Net Profitability:** Expected by Q4 2023  
 
-## 📊 Evaluation & Control
+**📊 Evaluation & Control**
 
 - Track leasing % from 10% in Q1 to 50% in Q4  
 - Quarterly sales targets with fallback plans  
 - Continual feedback collection and campaign adjustments
 
-## 📎 Appendix
+**📎 Appendix**
 
 - 📄 Online Survey Questionnaire  
 - 📣 Flyer & Ad Designs  
@@ -86,7 +86,7 @@
 👩‍🎓 **Student Contributor:** [Poorna Chandrika Kothapally]
 
 
-## 📬 Contact
+**📢 Let's Connect!**
 
 If you’re interested in viewing the full report or discussing the project, feel free to connect with me on [LinkedIn](https://linkedin.com/in/yourprofile) or send a message.
 
