@@ -21,7 +21,7 @@
 
 **📊 SWOT Analysis**
 
-| Strengths                            | Weaknesses                               |
+| Strengths                                    | Weaknesses                               |
 |--------------------------------------|------------------------------------------|
 | Low rental cost                      | Low awareness in early stages            |
 | High student demand                  | Limited initial inventory                |
