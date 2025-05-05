@@ -21,7 +21,7 @@
 
 **📊 SWOT Analysis**
 
-| Strengths                                    | Weaknesses                               |
+| Strengths                            | Weaknesses                               |
 |--------------------------------------|------------------------------------------|
 | Low rental cost                      | Low awareness in early stages            |
 | High student demand                  | Limited initial inventory                |
@@ -85,10 +85,9 @@
 📘 **Course:** Marketing Management  
 👩‍🎓 **Student Contributor:** [Poorna Chandrika Kothapally]
 
-
 **📢 Let's Connect!**
 
-If you’re interested in viewing the full report or discussing the project, feel free to connect with me on [LinkedIn](https://linkedin.com/in/yourprofile) or send a message.
+If you’re interested in viewing the full report or discussing the project, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/poorna-chandrika-kothapally/) or send a message.
 
 ---
 
